@@ -74,6 +74,7 @@ Add these lines to your **settings.json** for code completion and emmet abbrevia
     "tailwindCSS.emmetCompletions": true,
     "emmet.triggerExpansionOnTab": true,
     "blade.format.enable": true,
+    "editor.formatOnSave": true,
 }
 ```
 ## Recommendations
