@@ -12,6 +12,7 @@ VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwi
 - [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker) <sub><sup>neilbrayfield.php-docblocker</sup></sub>
 - [PHP Files](https://marketplace.visualstudio.com/items?itemName=sevavietl.php-files) <sub><sup>sevavietl.php-files</sup></sub>
 - [phpcs](https://marketplace.visualstudio.com/items?itemName=shevaua.phpcs) <sub><sup>shevaua.phpcs</sup></sub>
+- [Psalm (PHP Static Analysis Linting Machine)](https://marketplace.visualstudio.com/items?itemName=getpsalm.psalm-vscode-plugin) <sub><sup>getpsalm.psalm-vscode-plugin</sup></sub>
     
 ## Laravel
 - [Laravel Extra Intellisense](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>amiralizadeh9480.laravel-extra-intellisense</sup></sub>
@@ -45,6 +46,7 @@ VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwi
 
 ## Recommendations
 These recommended Visual Studio Code Extensions are not in the package. You may install them manually, if you want.
+- [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver) <sub><sup>brapifra.phpserver</sup></sub>
 - [MySQL](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2) <sub><sup>cweijan.vscode-mysql-client2</sup></sub>
 
 ## Suggestions
