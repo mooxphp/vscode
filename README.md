@@ -3,7 +3,7 @@
 VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwind and AlpineJS.
 
 ## PHP
-- [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) (bmewburn.vscode-intelephense-client)
+- [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) <sub><sup>bmewburn.vscode-intelephense-client</sup></sub>
 - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) (felixfbecker.php-debug)
     
 ## Laravel
