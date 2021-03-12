@@ -49,21 +49,23 @@ VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwi
 ## Recommendations
 These recommended Visual Studio Code Extensions are not in the package. You may install them manually, if you want.
 
-Just for fiddling some code without starting Laravel Sail:
+**Just for fiddling some code without starting Laravel Sail:**
 - [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver) <sub><sup>brapifra.phpserver</sup></sub>
 
-If you're using MySQL and don't want to leave VS Code:
+**If you're using MySQL and don't want to leave VS Code:**
 - [MySQL](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2) <sub><sup>cweijan.vscode-mysql-client2</sup></sub>
 - [SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) <sub><sup>mtxr.sqltools</sup></sub>
 - [SQLTools MySQL/MariaDB](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools-driver-mysql) <sub><sup>mtxr.sqltools-driver-mysql</sup></sub>
 
-If you're working on Windows with WSL2 or SSH:
+**If you're working on Windows with WSL2 or SSH:**
 - [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) <sub><sup>ms-vscode-remote.remote-containers</sup></sub>
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) <sub><sup>ms-vscode-remote.remote-ssh</sup></sub>
 - [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit) <sub><sup>ms-vscode-remote.remote-ssh-edit</sup></sub>
 - [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) <sub><sup>ms-vscode-remote.remote-wsl</sup></sub>
 
 ## Currently previewing
+These VSCode Extensions are currently in preview. I may sort them later.
+
 - [PHP Symbols](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>slug</sup></sub>
 - [phpcbf](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>slug</sup></sub>
 - [PHP DocBlock Generator](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>slug</sup></sub>
