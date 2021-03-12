@@ -87,3 +87,20 @@ These VSCode Extensions are currently in preview. I sort them later.
 ## Suggestions
 Do you have any suggestion? Use the following template to create a new entry in this README and make a PR.
 - [name](url) <sub><sup>slug</sup></sub>
+
+## VSCode Recommended Settings
+For code completion and emmet abbreviation to work:
+
+```settings.json
+{
+    "emmet.syntaxProfiles": {
+    
+        "blade": "html"
+    },
+    "emmet.includeLanguages": {
+        "blade": "html"
+    },
+    "tailwindCSS.emmetCompletions": true,
+    "blade.format.enable": true,
+}
+```
