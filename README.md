@@ -45,10 +45,12 @@ VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwi
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) <sub><sup>mikestead.dotenv</sup></sub>
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) <sub><sup>shd101wyy.markdown-preview-enhanced</sup></sub>
 - [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) <sub><sup>eamodio.gitlens</sup></sub>
+- [Save and run](https://marketplace.visualstudio.com/items?itemName=wk-j.save-and-run) <sub><sup>wk-j.save-and-run</sup></sub>
 
 ## Code Quality
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) <sub><sup>editorconfig.editorconfig</sup></sub>
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) <sub><sup>dbaeumer.vscode-eslint</sup></sub>
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) <sub><sup>esbenp.prettier-vscode</sup></sub>
 
 ## VSCode Recommended Settings
 Add these lines to your **settings.json** for code completion and emmet abbreviation:
@@ -87,22 +89,13 @@ These recommended Visual Studio Code Extensions are not in this package. Install
 - [Apache](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) <sub><sup>mrmlnc.vscode-apache</sup></sub>
 - [Apacheconf Snippets](https://marketplace.visualstudio.com/items?itemName=eiminsasete.apacheconf-snippets) <sub><sup>eiminsasete.apacheconf-snippets</sup></sub>
 
-## Currently previewing
-These VSCode Extensions are currently in preview. I sort them later.
-
+**Alternatives and Others**
 - [PHPDoc Comment](https://marketplace.visualstudio.com/items?itemName=rexshi.phpdoc-comment-vscode-plugin) <sub><sup>rexshi.phpdoc-comment-vscode-plugin</sup></sub>
-- [Save and run](https://marketplace.visualstudio.com/items?itemName=wk-j.save-and-run) <sub><sup>wk-j.save-and-run</sup></sub>
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=hookyqr.beautify) <sub><sup>hookyqr.beautify</sup></sub>
 - [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) <sub><sup>auchenberg.vscode-browser-preview</sup></sub>
 - [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) <sub><sup>kamikillerto.vscode-colorize</sup></sub>
-- [CSS Formatter](https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter) <sub><sup>aeschli.vscode-css-formatter</sup></sub>
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) <sub><sup>ms-azuretools.vscode-docker</sup></sub>
 - [Browser](https://marketplace.visualstudio.com/items?itemName=wscats.cors-browser) <sub><sup>wscats.cors-browser</sup></sub>
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) <sub><sup>esbenp.prettier-vscode</sup></sub>
-
-## Replaced packages
-- [phpcs](https://marketplace.visualstudio.com/items?itemName=shevaua.phpcs) <sub><sup>shevaua.phpcs</sup></sub>
-- [phpcbf](https://marketplace.visualstudio.com/items?itemName=persoderlind.vscode-phpcbf) <sub><sup>persoderlind.vscode-phpcbf</sup></sub>
 
 ## Suggestions
 Do you have any suggestion? Use the following template to create a new entry in this README and make a PR.
