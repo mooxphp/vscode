@@ -39,6 +39,8 @@ VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwi
 ## Productivity
 - [advanced-new-file](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file) <sub><sup>patbenatar.advanced-new-file</sup></sub>
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) <sub><sup>mikestead.dotenv</sup></sub>
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) <sub><sup>shd101wyy.markdown-preview-enhanced</sup></sub>
+- [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) <sub><sup>eamodio.gitlens</sup></sub>
 
 ## Code Quality
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) <sub><sup>editorconfig.editorconfig</sup></sub>
@@ -46,22 +48,37 @@ VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwi
 
 ## Recommendations
 These recommended Visual Studio Code Extensions are not in the package. You may install them manually, if you want.
-- [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver) <sub><sup>brapifra.phpserver</sup></sub>
-- [MySQL](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2) <sub><sup>cweijan.vscode-mysql-client2</sup></sub>
 
-## Currently testing
-- Markdown Preview Enhanced
-- GitLens - Git supercharged
-- HTML Snippets
-- HTML CSS Support
-- Multiple clipboards
-- SQLTools und SQLTools MySQL/MariaDB
-- PHP Symbols
-- phpcbf
-- PHP DocBlock Generator
-- phpdoc-comment-vscode-plugin
-- Composer
-- Save and run
+Just for fiddling some code without starting Laravel Sail:
+- [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver) <sub><sup>brapifra.phpserver</sup></sub>
+
+If you're using MySQL and don't want to leave VS Code:
+- [MySQL](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2) <sub><sup>cweijan.vscode-mysql-client2</sup></sub>
+- [SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) <sub><sup>mtxr.sqltools</sup></sub>
+- [SQLTools MySQL/MariaDB](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools-driver-mysql) <sub><sup>mtxr.sqltools-driver-mysql</sup></sub>
+
+If you're working on Windows with WSL2 or SSH:
+- [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) <sub><sup>ms-vscode-remote.remote-containers</sup></sub>
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) <sub><sup>ms-vscode-remote.remote-ssh</sup></sub>
+- [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit) <sub><sup>ms-vscode-remote.remote-ssh-edit</sup></sub>
+- [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) <sub><sup>ms-vscode-remote.remote-wsl</sup></sub>
+
+## Currently previewing
+- [PHP Symbols](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>slug</sup></sub>
+- [phpcbf](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>slug</sup></sub>
+- [PHP DocBlock Generator](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>slug</sup></sub>
+- [phpdoc-comment-vscode-plugin](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>slug</sup></sub>
+- [Composer](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>slug</sup></sub>
+- [Save and run](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>slug</sup></sub>
+- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>mrmlnc.vscode-apache</sup></sub>
+- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>eiminsasete.apacheconf-snippets</sup></sub>
+- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>hookyqr.beautify</sup></sub>
+- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>auchenberg.vscode-browser-preview</sup></sub>
+- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>kamikillerto.vscode-colorize</sup></sub>
+- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>aeschli.vscode-css-formatter</sup></sub>
+- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>ms-azuretools.vscode-docker</sup></sub>
+- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>wscats.cors-browser</sup></sub>
+- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>esbenp.prettier-vscode</sup></sub>
 
 ## Suggestions
 Do you have any suggestion? Use the following template to create a new entry in this README and make a PR.
