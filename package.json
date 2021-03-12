@@ -47,7 +47,7 @@
     "codingyu.laravel-goto-view",
     "stef-k.laravel-goto-controller",
     "adrianwilczynski.alpine-js-intellisense",
-    "cierra.livewire-vscode"
+    "cierra.livewire-vscode",
     "austenc.livewire-docs",
     "bradlc.vscode-tailwindcss",
     "bourhaouta.tailwindshades",
@@ -59,5 +59,9 @@
     "eamodio.gitlens",
     "editorconfig.editorconfig",
     "dbaeumer.vscode-eslint"
-  ]
+  ],
+  "dependencies": {
+    "i": "^0.3.6",
+    "npm": "^7.6.3"
+  }
 }
