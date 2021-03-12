@@ -1,0 +1,47 @@
+{
+  "name": "tallui-laravel-tall-stack",
+  "displayName": "TallUI VScode Extensions",
+  "description": "VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwind and AlpineJS",
+  "version": "1.0.2",
+  "publisher": "adrolli",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Other",
+    "Extension Packs"
+  ],
+  "galleryBanner": {
+    "color": "#2A7490",
+    "theme": "dark"
+  },
+  "icon": "logo.png",
+  "homepage": "https://github.com/adrolli/tallui-vscode",
+  "bugs": {
+    "url": "https://github.com/adrolli/tallui-vscode/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrolli/tallui-vscode"
+  },
+  "extensionPack": [
+    "felixfbecker.php-debug",
+    "bmewburn.vscode-intelephense-client",
+    "patbenatar.advanced-new-file",
+    "adrianwilczynski.alpine-js-intellisense",
+    "mikestead.dotenv",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "kamikillerto.vscode-colorize",
+    "onecentlin.laravel-blade",
+    "onecentlin.laravel5-snippets",
+    "ryannaddy.laravel-artisan",
+    "codingyu.laravel-goto-view",
+    "stef-k.laravel-goto-controller",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "bradlc.vscode-tailwindcss",
+    "heybourn.headwind",
+    "cierra.livewire-vscode"
+  ]
+}
