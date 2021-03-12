@@ -14,8 +14,7 @@ VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwi
 - [PHP Constructor](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-constructor) <sub><sup>MehediDracula.php-constructor</sup></sub>
 - [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker) <sub><sup>neilbrayfield.php-docblocker</sup></sub>
 - [PHP Files](https://marketplace.visualstudio.com/items?itemName=sevavietl.php-files) <sub><sup>sevavietl.php-files</sup></sub>
-- [phpcs](https://marketplace.visualstudio.com/items?itemName=shevaua.phpcs) <sub><sup>shevaua.phpcs</sup></sub>
-- [phpcbf](https://marketplace.visualstudio.com/items?itemName=persoderlind.vscode-phpcbf) <sub><sup>persoderlind.vscode-phpcbf</sup></sub>
+- [PHP Sniffer & Beautifier](https://marketplace.visualstudio.com/items?itemName=ValeryanM.vscode-phpsab) <sub><sup>ValeryanM.vscode-phpsab</sup></sub>
 - [Psalm (PHP Static Analysis Linting Machine)](https://marketplace.visualstudio.com/items?itemName=getpsalm.psalm-vscode-plugin) <sub><sup>getpsalm.psalm-vscode-plugin</sup></sub>
 - [Composer](https://marketplace.visualstudio.com/items?itemName=ikappas.composer) <sub><sup>ikappas.composer</sup></sub>
     
@@ -51,8 +50,24 @@ VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwi
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) <sub><sup>editorconfig.editorconfig</sup></sub>
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) <sub><sup>dbaeumer.vscode-eslint</sup></sub>
 
+## VSCode Recommended Settings
+Add these lines to your **settings.json** for code completion and emmet abbreviation:
+
+```json
+{
+    "emmet.syntaxProfiles": {
+    
+        "blade": "html"
+    },
+    "emmet.includeLanguages": {
+        "blade": "html"
+    },
+    "tailwindCSS.emmetCompletions": true,
+    "blade.format.enable": true,
+}
+```
 ## Recommendations
-These recommended Visual Studio Code Extensions are not in the package. You may install them manually, if you want.
+These recommended Visual Studio Code Extensions are not in this package. Install them manually, if you want.
 
 **Just for fiddling some code without starting Laravel Sail:**
 - [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver) <sub><sup>brapifra.phpserver</sup></sub>
@@ -75,7 +90,6 @@ These recommended Visual Studio Code Extensions are not in the package. You may 
 ## Currently previewing
 These VSCode Extensions are currently in preview. I sort them later.
 
-- [PHP Sniffer & Beautifier](https://marketplace.visualstudio.com/items?itemName=ValeryanM.vscode-phpsab) <sub><sup>ValeryanM.vscode-phpsab</sup></sub>
 - [PHPDoc Comment](https://marketplace.visualstudio.com/items?itemName=rexshi.phpdoc-comment-vscode-plugin) <sub><sup>rexshi.phpdoc-comment-vscode-plugin</sup></sub>
 - [Save and run](https://marketplace.visualstudio.com/items?itemName=wk-j.save-and-run) <sub><sup>wk-j.save-and-run</sup></sub>
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=hookyqr.beautify) <sub><sup>hookyqr.beautify</sup></sub>
@@ -86,29 +100,15 @@ These VSCode Extensions are currently in preview. I sort them later.
 - [Browser](https://marketplace.visualstudio.com/items?itemName=wscats.cors-browser) <sub><sup>wscats.cors-browser</sup></sub>
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) <sub><sup>esbenp.prettier-vscode</sup></sub>
 
+## Replaced packages
+- [phpcs](https://marketplace.visualstudio.com/items?itemName=shevaua.phpcs) <sub><sup>shevaua.phpcs</sup></sub>
+- [phpcbf](https://marketplace.visualstudio.com/items?itemName=persoderlind.vscode-phpcbf) <sub><sup>persoderlind.vscode-phpcbf</sup></sub>
+
 ## Suggestions
 Do you have any suggestion? Use the following template to create a new entry in this README and make a PR.
 ```markdown
 - [name](url) <sub><sup>slug</sup></sub>
 ```
-
-## VSCode Recommended Settings
-Add these lines to your **settings.json** for code completion and emmet abbreviation:
-
-```json
-{
-    "emmet.syntaxProfiles": {
-    
-        "blade": "html"
-    },
-    "emmet.includeLanguages": {
-        "blade": "html"
-    },
-    "tailwindCSS.emmetCompletions": true,
-    "blade.format.enable": true,
-}
-```
-
 ## Other interesting packages
 - [Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-extension-pack) <sub><sup>onecentlin.laravel-extension-pack</sup></sub>
 - [PHP Productive Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.php-productive-pack) <sub><sup>onecentlin.php-productive-pack</sup></sub>
