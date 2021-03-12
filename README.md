@@ -6,13 +6,16 @@ VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwi
 - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) <sub><sup>bmewburn.vscode-intelephense-client</sup></sub>
 - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) <sub><sup>felixfbecker.php-debug</sup></sub>
 - [phpfmt - PHP formatter](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt) <sub><sup>kokororin.vscode-phpfmt</sup></sub>
+- [PHP Symbols](https://marketplace.visualstudio.com/items?itemName=linyang95.php-symbols) <sub><sup>linyang95.php-symbols</sup></sub>
 - [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver) <sub><sup>MehediDracula.php-namespace-resolver</sup></sub>
 - [PHP Getters & Setters](https://marketplace.visualstudio.com/items?itemName=phproberto.vscode-php-getters-setters) <sub><sup>phproberto.vscode-php-getters-setters</sup></sub>
 - [PHP Constructor](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-constructor) <sub><sup>MehediDracula.php-constructor</sup></sub>
 - [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker) <sub><sup>neilbrayfield.php-docblocker</sup></sub>
 - [PHP Files](https://marketplace.visualstudio.com/items?itemName=sevavietl.php-files) <sub><sup>sevavietl.php-files</sup></sub>
 - [phpcs](https://marketplace.visualstudio.com/items?itemName=shevaua.phpcs) <sub><sup>shevaua.phpcs</sup></sub>
+- [phpcbf](https://marketplace.visualstudio.com/items?itemName=persoderlind.vscode-phpcbf) <sub><sup>persoderlind.vscode-phpcbf</sup></sub>
 - [Psalm (PHP Static Analysis Linting Machine)](https://marketplace.visualstudio.com/items?itemName=getpsalm.psalm-vscode-plugin) <sub><sup>getpsalm.psalm-vscode-plugin</sup></sub>
+- [Composer](https://marketplace.visualstudio.com/items?itemName=ikappas.composer) <sub><sup>ikappas.composer</sup></sub>
     
 ## Laravel
 - [Laravel Extra Intellisense](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>amiralizadeh9480.laravel-extra-intellisense</sup></sub>
@@ -63,24 +66,23 @@ These recommended Visual Studio Code Extensions are not in the package. You may 
 - [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit) <sub><sup>ms-vscode-remote.remote-ssh-edit</sup></sub>
 - [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) <sub><sup>ms-vscode-remote.remote-wsl</sup></sub>
 
-## Currently previewing
-These VSCode Extensions are currently in preview. I may sort them later.
+**If your run with Apache**
+- [Apache](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) <sub><sup>mrmlnc.vscode-apache</sup></sub>
+- [Apacheconf Snippets](https://marketplace.visualstudio.com/items?itemName=eiminsasete.apacheconf-snippets) <sub><sup>eiminsasete.apacheconf-snippets</sup></sub>
 
-- [PHP Symbols](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>slug</sup></sub>
-- [phpcbf](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>slug</sup></sub>
-- [PHP DocBlock Generator](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>slug</sup></sub>
-- [phpdoc-comment-vscode-plugin](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>slug</sup></sub>
-- [Composer](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>slug</sup></sub>
-- [Save and run](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>slug</sup></sub>
-- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>mrmlnc.vscode-apache</sup></sub>
-- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>eiminsasete.apacheconf-snippets</sup></sub>
-- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>hookyqr.beautify</sup></sub>
-- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>auchenberg.vscode-browser-preview</sup></sub>
-- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>kamikillerto.vscode-colorize</sup></sub>
-- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>aeschli.vscode-css-formatter</sup></sub>
-- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>ms-azuretools.vscode-docker</sup></sub>
-- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>wscats.cors-browser</sup></sub>
-- [name](https://marketplace.visualstudio.com/items?itemName=) <sub><sup>esbenp.prettier-vscode</sup></sub>
+## Currently previewing
+These VSCode Extensions are currently in preview. I sort them later.
+
+- [PHP Sniffer & Beautifier](https://marketplace.visualstudio.com/items?itemName=ValeryanM.vscode-phpsab) <sub><sup>ValeryanM.vscode-phpsab</sup></sub>
+- [PHPDoc Comment](https://marketplace.visualstudio.com/items?itemName=rexshi.phpdoc-comment-vscode-plugin) <sub><sup>rexshi.phpdoc-comment-vscode-plugin</sup></sub>
+- [Save and run](https://marketplace.visualstudio.com/items?itemName=wk-j.save-and-run) <sub><sup>wk-j.save-and-run</sup></sub>
+- [Beautify](https://marketplace.visualstudio.com/items?itemName=hookyqr.beautify) <sub><sup>hookyqr.beautify</sup></sub>
+- [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) <sub><sup>auchenberg.vscode-browser-preview</sup></sub>
+- [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) <sub><sup>kamikillerto.vscode-colorize</sup></sub>
+- [CSS Formatter](https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter) <sub><sup>aeschli.vscode-css-formatter</sup></sub>
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) <sub><sup>ms-azuretools.vscode-docker</sup></sub>
+- [Browser](https://marketplace.visualstudio.com/items?itemName=wscats.cors-browser) <sub><sup>wscats.cors-browser</sup></sub>
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) <sub><sup>esbenp.prettier-vscode</sup></sub>
 
 ## Suggestions
 Do you have any suggestion? Use the following template to create a new entry in this README and make a PR.
