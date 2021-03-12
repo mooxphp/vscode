@@ -26,6 +26,8 @@ VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwi
 - [Laravel Blade formatter](https://marketplace.visualstudio.com/items?itemName=shufo.vscode-blade-formatter) <sub><sup>shufo.vscode-blade-formatter</sup></sub>
 - [Laravel goto view](https://marketplace.visualstudio.com/items?itemName=codingyu.laravel-goto-view) <sub><sup>codingyu.laravel-goto-view</sup></sub>
 - [laravel-goto-controller](https://marketplace.visualstudio.com/items?itemName=stef-k.laravel-goto-controller) <sub><sup>stef-k.laravel-goto-controller</sup></sub>
+- [Laravel Model Snippets](https://marketplace.visualstudio.com/items?itemName=ahinkle.laravel-model-snippets) <sub><sup>ahinkle.laravel-model-snippets</sup></sub>
+- [Laravel Docs](https://marketplace.visualstudio.com/items?itemName=austenc.laravel-docs) <sub><sup>austenc.laravel-docs</sup></sub>
 
 ## AlpineJS
 - [Alpine.js IntelliSense](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense) <sub><sup>adrianwilczynski.alpine-js-intellisense</sup></sub>
@@ -46,13 +48,15 @@ VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwi
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) <sub><sup>shd101wyy.markdown-preview-enhanced</sup></sub>
 - [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) <sub><sup>eamodio.gitlens</sup></sub>
 - [Save and run](https://marketplace.visualstudio.com/items?itemName=wk-j.save-and-run) <sub><sup>wk-j.save-and-run</sup></sub>
+- [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) <sub><sup>auchenberg.vscode-browser-preview</sup></sub>
+- [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) <sub><sup>kamikillerto.vscode-colorize</sup></sub>
 
 ## Code Quality
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) <sub><sup>editorconfig.editorconfig</sup></sub>
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) <sub><sup>dbaeumer.vscode-eslint</sup></sub>
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) <sub><sup>esbenp.prettier-vscode</sup></sub>
 
-## VSCode Recommended Settings
+## VSCode Settings
 Add these lines to your **settings.json** for code completion and emmet abbreviation:
 
 ```json
@@ -71,6 +75,9 @@ Add these lines to your **settings.json** for code completion and emmet abbrevia
 ## Recommendations
 These recommended Visual Studio Code Extensions are not in this package. Install them manually, if you want.
 
+**Use Docker and Laravel Sail**
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) <sub><sup>ms-azuretools.vscode-docker</sup></sub>
+
 **Just for fiddling some code without starting Laravel Sail:**
 - [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver) <sub><sup>brapifra.phpserver</sup></sub>
 
@@ -88,14 +95,6 @@ These recommended Visual Studio Code Extensions are not in this package. Install
 **If your run with Apache**
 - [Apache](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) <sub><sup>mrmlnc.vscode-apache</sup></sub>
 - [Apacheconf Snippets](https://marketplace.visualstudio.com/items?itemName=eiminsasete.apacheconf-snippets) <sub><sup>eiminsasete.apacheconf-snippets</sup></sub>
-
-**Alternatives and Others**
-- [PHPDoc Comment](https://marketplace.visualstudio.com/items?itemName=rexshi.phpdoc-comment-vscode-plugin) <sub><sup>rexshi.phpdoc-comment-vscode-plugin</sup></sub>
-- [Beautify](https://marketplace.visualstudio.com/items?itemName=hookyqr.beautify) <sub><sup>hookyqr.beautify</sup></sub>
-- [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) <sub><sup>auchenberg.vscode-browser-preview</sup></sub>
-- [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) <sub><sup>kamikillerto.vscode-colorize</sup></sub>
-- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) <sub><sup>ms-azuretools.vscode-docker</sup></sub>
-- [Browser](https://marketplace.visualstudio.com/items?itemName=wscats.cors-browser) <sub><sup>wscats.cors-browser</sup></sub>
 
 ## Suggestions
 Do you have any suggestion? Use the following template to create a new entry in this README and make a PR.
