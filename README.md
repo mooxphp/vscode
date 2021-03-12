@@ -86,7 +86,9 @@ These VSCode Extensions are currently in preview. I sort them later.
 
 ## Suggestions
 Do you have any suggestion? Use the following template to create a new entry in this README and make a PR.
+```markdown
 - [name](url) <sub><sup>slug</sup></sub>
+```
 
 ## VSCode Recommended Settings
 For code completion and emmet abbreviation you may add these lines to your settings.json:
