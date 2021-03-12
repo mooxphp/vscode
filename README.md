@@ -42,3 +42,11 @@ VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwi
 ## Code Quality
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) <sub><sup>editorconfig.editorconfig</sup></sub>
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) <sub><sup>dbaeumer.vscode-eslint</sup></sub>
+
+## Recommendations
+These recommended Visual Studio Code Extensions are not in the package. You may install them manually, if you want.
+- [MySQL](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2) <sub><sup>cweijan.vscode-mysql-client2</sup></sub>
+
+## Suggestions
+Do you have any suggestion? Use the following template to create a new entry in this README and make a PR.
+- [name](url) <sub><sup>slug</sup></sub>
