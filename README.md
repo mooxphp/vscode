@@ -61,23 +61,19 @@ Add these lines to your **settings.json** for code completion and emmet abbrevia
 
 ```json
 {
-
-    // enable emmet (html) in blade
     "emmet.syntaxProfiles": {
         "blade": "html"
     },
     "emmet.includeLanguages": {
         "blade": "html"
     },
-
-    // specific settings for blade language
     "[blade]": {
         "editor.autoClosingBrackets": "always"
     },
 
-    "tailwindCSS.emmetCompletions": true,           // show tailwind classes in emmet
-    "emmet.triggerExpansionOnTab": true,            // enable tab to expanse emmet tags
-    "blade.format.enable": true,                    // enable blade format
+    "tailwindCSS.emmetCompletions": true,
+    "emmet.triggerExpansionOnTab": true,
+    "blade.format.enable": true,
 }
 ```
 ## Recommendations
