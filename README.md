@@ -93,7 +93,7 @@ Do you have any suggestion? Use the following template to create a new entry in 
 ```
 
 ## VSCode Recommended Settings
-For code completion and emmet abbreviation you may add these lines to your settings.json:
+Add these lines to your **settings.json** for code completion and emmet abbreviation:
 
 ```json
 {
