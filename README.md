@@ -49,6 +49,20 @@ These recommended Visual Studio Code Extensions are not in the package. You may 
 - [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver) <sub><sup>brapifra.phpserver</sup></sub>
 - [MySQL](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2) <sub><sup>cweijan.vscode-mysql-client2</sup></sub>
 
+## Currently testing
+- Markdown Preview Enhanced
+- GitLens - Git supercharged
+- HTML Snippets
+- HTML CSS Support
+- Multiple clipboards
+- SQLTools und SQLTools MySQL/MariaDB
+- PHP Symbols
+- phpcbf
+- PHP DocBlock Generator
+- phpdoc-comment-vscode-plugin
+- Composer
+- Save and run
+
 ## Suggestions
 Do you have any suggestion? Use the following template to create a new entry in this README and make a PR.
 - [name](url) <sub><sup>slug</sup></sub>
