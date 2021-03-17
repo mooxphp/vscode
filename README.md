@@ -1,3 +1,6 @@
+Attention! We are now here: https://github.com/usetall/tallui-vscode. This repo will be deleted soon.
+
+
 # TallUI VScode Extensions
 
 VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwind and AlpineJS.
