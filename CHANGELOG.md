@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.0.5
+
+- Minor improvements, docs
+
 ## Version 1.0.4
 
 - Improved docs
