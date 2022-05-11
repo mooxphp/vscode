@@ -1,3 +1,7 @@
+<p align="center">
+        <img src="https://raw.githubusercontent.com/usetall/tallui/main/tallui-art/logo-gh.png" />
+</p>
+
 # TallUI VScode Extensions
 
 VS Code Extensions for [TallUI](https://github.com/usetall/tallui) and the Tall-Stack: PHP, Laravel, Livewire, Tailwind and AlpineJS.
