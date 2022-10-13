@@ -2,7 +2,7 @@
   "name": "tallui-laravel-livewire-tailwind",
   "displayName": "TallUI VScode Extensions",
   "description": "VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwind and AlpineJS",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "adrolli",
   "engines": {
     "vscode": "^1.54.0"
@@ -59,7 +59,6 @@
     "shd101wyy.markdown-preview-enhanced",
     "eamodio.gitlens",
     "wk-j.save-and-run",
-    "auchenberg.vscode-browser-preview",
     "kamikillerto.vscode-colorize",
     "editorconfig.editorconfig",
     "dbaeumer.vscode-eslint",

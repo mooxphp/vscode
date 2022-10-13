@@ -52,7 +52,6 @@ VS Code Extensions for [TallUI](https://github.com/usetall/tallui) and the Tall-
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) <sub><sup>shd101wyy.markdown-preview-enhanced</sup></sub>
 - [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) <sub><sup>eamodio.gitlens</sup></sub>
 - [Save and run](https://marketplace.visualstudio.com/items?itemName=wk-j.save-and-run) <sub><sup>wk-j.save-and-run</sup></sub>
-- [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) <sub><sup>auchenberg.vscode-browser-preview</sup></sub>
 - [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) <sub><sup>kamikillerto.vscode-colorize</sup></sub>
 
 ## Code Quality
@@ -83,6 +82,9 @@ Add these lines to your **settings.json** for code completion and emmet abbrevia
 ```
 ## Recommendations
 These recommended Visual Studio Code Extensions are not in this package. Install them manually, if you want.
+
+**Removed in 1.0.6 as deprecated and not replaced by Live Preview as suggested**
+- [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) <sub><sup>auchenberg.vscode-browser-preview</sup></sub>
 
 **Use Docker and Laravel Sail**
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) <sub><sup>ms-azuretools.vscode-docker</sup></sub>

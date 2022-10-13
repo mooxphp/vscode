@@ -1,1 +1,1 @@
-Add information on how to build the package.
+This is only an extension package. Use it with VS Code. There is no need to build anything else ;-)

@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 1.0.6
+
+- Removed Browser Preview (deprecated), officially replaced by https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server, but we decided not to add any replacement as we do not need this feature anymore using Vite (and hopefully soon Livewire 3)
+- Docs
+
 ## Version 1.0.5
 
 - Minor improvements, docs
