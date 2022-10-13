@@ -63,9 +63,5 @@
     "editorconfig.editorconfig",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode"
-  ],
-  "dependencies": {
-    "i": "^0.3.6",
-    "npm": "^7.6.3"
-  }
+  ]
 }
