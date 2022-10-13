@@ -1,5 +1,5 @@
 <p align="center">
-        <img src="https://raw.githubusercontent.com/usetall/tallui/main/tallui-art/logo-gh.png" />
+        <img src="https://raw.githubusercontent.com/usetall/tallui/main/_others/tallui-art/logo-gh.png" />
 </p>
 
 # TallUI VScode Extensions
