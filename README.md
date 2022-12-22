@@ -21,6 +21,8 @@ VS Code Extensions for [TallUI](https://tallui.io). A perfect fit for devs using
 - [PHP Files](https://marketplace.visualstudio.com/items?itemName=sevavietl.php-files) <sub><sup>sevavietl.php-files</sup></sub>
 - [PHP Sniffer & Beautifier](https://marketplace.visualstudio.com/items?itemName=ValeryanM.vscode-phpsab) <sub><sup>ValeryanM.vscode-phpsab</sup></sub>
 - [Composer](https://marketplace.visualstudio.com/items?itemName=ikappas.composer) <sub><sup>ikappas.composer</sup></sub>
+- [PHPStan](https://marketplace.visualstudio.com/items?itemName=swordev.phpstan) <sub><sup>swordev.phpstan</sup></sub>
+- [Pest Snippets](https://marketplace.visualstudio.com/items?itemName=dansysanalyst.pest-snippets) <sub><sup>dansysanalyst.pest-snippets</sup></sub>
 
 ## Laravel
 
@@ -33,6 +35,7 @@ VS Code Extensions for [TallUI](https://tallui.io). A perfect fit for devs using
 - [laravel-goto-controller](https://marketplace.visualstudio.com/items?itemName=stef-k.laravel-goto-controller) <sub><sup>stef-k.laravel-goto-controller</sup></sub>
 - [Laravel Model Snippets](https://marketplace.visualstudio.com/items?itemName=ahinkle.laravel-model-snippets) <sub><sup>ahinkle.laravel-model-snippets</sup></sub>
 - [Laravel Docs](https://marketplace.visualstudio.com/items?itemName=austenc.laravel-docs) <sub><sup>austenc.laravel-docs</sup></sub>
+- [Laravel Pint](https://marketplace.visualstudio.com/items?itemName=open-southeners.laravel-pint) <sub><sup>open-southeners.laravel-pint</sup></sub>
 
 ## AlpineJS
 
@@ -42,6 +45,7 @@ VS Code Extensions for [TallUI](https://tallui.io). A perfect fit for devs using
 
 - [Livewire Language Support](https://marketplace.visualstudio.com/items?itemName=cierra.livewire-vscode) <sub><sup>cierra.livewire-vscode</sup></sub>
 - [Livewire Docs](https://marketplace.visualstudio.com/items?itemName=austenc.livewire-docs) <sub><sup>austenc.livewire-docs</sup></sub>
+- [Livewire Switcher](https://marketplace.visualstudio.com/items?itemName=bebo925.livewire-switcher) <sub><sup>bebo925.livewire-switcher</sup></sub>
 
 ## TailwindCSS
 
