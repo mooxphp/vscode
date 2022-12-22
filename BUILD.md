@@ -1,6 +1,8 @@
+# Build
+
 This is only an extension package. Use it with VS Code. There is no need to build anything else ;-)
 
-For updating the package on VSC Marketplace (yep, that's more an internal note):
+## Update package on VSC Marketplace (yep, that's more an internal note)
 
 ```bash
 npm install -g vsce

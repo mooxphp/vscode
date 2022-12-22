@@ -2,11 +2,20 @@
 
 ## Version 1.0.7
 
-- Remove phpfmt PHP formatter, deprecated as of 2019 and no longer useful with PHP 8
-- Remove Psalm, we (and most Laravel codebases we know) moved to PHPStan aka Larastan
-- Remove PHP Symbols, it is now fully replaced by Intelephense
-- Replace felixfbecker.php-debug with its successor xdebug.php-debug
-- Add Laravel Pint VSCode Extension
+- Removed phpfmt PHP formatter, deprecated as of 2019 and no longer useful with PHP 8
+- Removed Psalm, we (as most Laravel codebases we know) moved to PHPStan and Larastan
+- Removed PHP Symbols, it is now fully replaced by Intelephense
+- Replaced felixfbecker.php-debug with its successor xdebug.php-debug
+- Improved docs, updated logo
+
+### Todo
+
+- Add PHPStan - https://marketplace.visualstudio.com/items?itemName=swordev.phpstan&ssr=false#review-details
+- Add Livewire Switcher
+- Add Laravel Pint
+- Add Pest Snippets - https://marketplace.visualstudio.com/items?itemName=dansysanalyst.pest-snippets
+- Replace Livewire Language Support with https://marketplace.visualstudio.com/items?itemName=haringsbe-haringsrob.laravel-blade-livewire-lsp
+- Add full docs
 
 ## Version 1.0.6
 

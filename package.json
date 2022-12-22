@@ -1,6 +1,6 @@
 {
   "name": "tallui-laravel-livewire-tailwind",
-  "displayName": "TallUI VScode Extensions",
+  "displayName": "TallUI Laravel, PHP and TALL-Stack VScode Extensions",
   "description": "VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwind and AlpineJS",
   "version": "1.0.7",
   "publisher": "adrolli",
@@ -16,7 +16,7 @@
     "theme": "dark"
   },
   "icon": "logo.png",
-  "homepage": "https://github.com/adrolli/tallui-vscode",
+  "homepage": "https://tallui.io",
   "bugs": {
     "url": "https://github.com/adrolli/tallui-vscode/issues"
   },
