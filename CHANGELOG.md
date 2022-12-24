@@ -4,7 +4,7 @@
 
 - Replace Livewire Language Support with [Laravel Blade Livewire LSP](https://marketplace.visualstudio.com/items?itemName=haringsbe-haringsrob.laravel-blade-livewire-lsp)
 - Add [Devsense PHP Tools](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode), as replacement for other PHP Exts - buy a license?
-- Replace Alpine.js IntelliSense by Adria Wilcynski by its successor by P. Christopher Bowers (https://marketplace.visualstudio.com/items?itemName=pcbowers.alpine-intellisense)
+- Replace Alpine.js IntelliSense by Adria Wilcynski with Alpine Intellisense by P. Christopher Bowers (https://marketplace.visualstudio.com/items?itemName=pcbowers.alpine-intellisense)
 - Test PHPStan (swordev.phpstan) alternatives
   - https://marketplace.visualstudio.com/items?itemName=ddarkonen.phpstan-larastan
   - https://marketplace.visualstudio.com/items?itemName=SanderRonde.phpstan-vscode

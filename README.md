@@ -1,7 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/usetall/tallui/main/_others/tallui-art/tallui-logo.svg" width="100" alt="TallUI Logo">
-    <br><br>
-    <img src="https://raw.githubusercontent.com/usetall/tallui/main/_others/tallui-art/tallui-textlogo.svg" width="110" alt="TallUI Textlogo">
+    <img src="https://raw.githubusercontent.com/usetall/tallui/main/_others/tallui-art/tallui-logo-150.png" width="100" alt="TallUI Logo">
 </p>
 
 # TallUI VScode Extensions
