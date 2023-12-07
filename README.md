@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/usetall/tallui/main/_others/tallui-art/tallui-logo-150.png" width="100" alt="TallUI Logo">
+    <img src="https://raw.githubusercontent.com/mooxphp/moox/main/_other/art/moox-logo.png" width="200" alt="Moox Logo">
 </p>
 
-# TallUI VScode Extensions
+# VScode Extensions
 
-VS Code Extensions for [TallUI](https://tallui.io). A perfect fit for devs using the TALL-Stack - TailwindCSS, AlpineJS, Laravel and Livewire. Includes the most useful PHP Extensions, Laravel Pint, PHPStan and selected helpers and linters for all-things Laravel including Markdown.
+VS Code Extensions for [Moox](https://moox.org). A perfect fit for devs using the TALL-Stack - TailwindCSS, AlpineJS, Laravel and Livewire. Includes the most useful PHP Extensions, Laravel Pint, PHPStan and selected helpers and linters for all-things Laravel including Markdown.
 
 [View and install on VS Marketplace](https://marketplace.visualstudio.com/items?itemName=adrolli.tallui-laravel-livewire-tailwind)
 
