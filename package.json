@@ -1,29 +1,29 @@
 {
   "name": "tallui-laravel-livewire-tailwind",
-  "displayName": "TallUI Laravel, PHP and TALL-Stack VScode Extensions",
-  "description": "VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwind and AlpineJS",
-  "version": "1.0.7",
+  "displayName": "Laravel, Livewire, Filament, PHP and TALL-Stack VScode Extension Pack by Moox",
+  "description": "VS Code Extensions for Moox and the Tall-Stack: PHP, Laravel, Livewire, FilamentPHP, Tailwind and AlpineJS",
+  "version": "1.0.8",
   "publisher": "adrolli",
   "engines": {
-    "vscode": "^1.74.0"
+    "vscode": "^1.79.0"
   },
   "categories": [
     "Other",
     "Extension Packs"
   ],
   "galleryBanner": {
-    "color": "#2A7490",
+    "color": "#010e7e",
     "theme": "dark"
   },
-  "icon": "logo.png",
-  "homepage": "https://tallui.io",
+  "icon": "moox-signet.jpg",
+  "homepage": "https://moox.org",
   "bugs": {
-    "url": "https://github.com/adrolli/tallui-vscode/issues"
+    "url": "https://github.com/mooxphp/vscode/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adrolli/tallui-vscode"
+    "url": "https://github.com/mooxphp/vscode"
   },
   "extensionPack": [
     "adrianwilczynski.alpine-js-intellisense",

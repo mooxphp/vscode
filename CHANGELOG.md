@@ -17,6 +17,10 @@
   - https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-extension-pack
   - https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets
 
+## Version 1.0.8
+
+Changed identity from the abandoned TallUI project to Moox. No Extension changes.
+
 ## Version 1.0.7
 
 - Remove phpfmt PHP formatter, deprecated as of 2019 and no longer useful with PHP 8
@@ -28,13 +32,6 @@
 - Add [Laravel Pint](https://marketplace.visualstudio.com/items?itemName=open-southeners.laravel-pint)
 - Add [Pest Snippets](https://marketplace.visualstudio.com/items?itemName=dansysanalyst.pest-snippets)
 - Improve docs, update logo
-
-### Todo
-
-- Add laravel-goto-component extension?
-- Add Laravel Blade formatter extension?
-- Add Laravel Create View extension?
-- Add Laravel Blade Wrapper extension?
 
 ## Version 1.0.6
 
