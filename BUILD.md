@@ -5,12 +5,15 @@ This is only an extension package. Use it with VS Code. There is no need to buil
 ## Update package on VSC Marketplace (yep, that's more an internal note)
 
 ```bash
-npm install -g vsce
+npm i -g @vscode/vsce
 
-cd tallui-vscode
-$ vsce package
+# Check if it is installed, if necessary
+npm list -g
+
+cd vscode
+vsce package
 # myExtension.vsix generated
-$ vsce publish
+vsce publish
 # <publisherID>.myExtension published to VS Code Marketplace
 ```
 
