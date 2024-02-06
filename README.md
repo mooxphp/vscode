@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/mooxphp/moox/main/_other/art/moox-logo.png" width="200" alt="Moox Logo">
+    <img src="https://raw.githubusercontent.com/mooxphp/moox/main/art/moox-logo.png" width="200" alt="Moox Logo">
 </p>
 
 # VScode Extensions
